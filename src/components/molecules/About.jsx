@@ -46,6 +46,8 @@ const About = () => {
           Negeri Batam. Untuk saat ini saya memfokuskan diri saya untuk belajar
           web developer tepatnya frontend developer, yang dimana skill yang
           telah saya kuasai yaitu:
+          
+          setelah git stash
         </p>
         <div className="flex flex-wrap justify-center gap-5 py-5">
           {contentCard.map((item, index) => {
