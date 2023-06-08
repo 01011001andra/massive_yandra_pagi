@@ -39,7 +39,7 @@ const About = () => {
   return (
     <div name="about" className="w-full min-h-screen px-4">
       <div className="w-full max-w-6xl mx-auto 2xl:max-w-7xl">
-        <h1 className={`${styles.sectionHeadText}`}>ABOUT ME</h1>
+        <h1 className={`${styles.sectionHeadText}`}>ABOUT MEh</h1>
         <p className={`${styles.sectionSubText}`}>
           Halo! Saya Yandra Muslim, seorang mahasiswa berusia 20 tahun yang
           tengah menempuh studi dalam bidang Teknik Informatika di Politeknik
